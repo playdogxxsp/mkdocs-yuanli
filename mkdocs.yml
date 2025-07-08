@@ -105,6 +105,7 @@ hooks:
 
 # Additional configuration
 extra:
+  generator: false
   status:
     new: Recently added
     deprecated: Deprecated
