@@ -305,7 +305,4 @@ nav:
     - 工作空间2: 
       - bole: 工作空间1/工作空间2/bole.md
   - 工作空间2: 
-    - bole: 工作空间2/bole.md         
-    - 工作空间3: 
-      - 工作空间3/index.md
-      - 工作空间3/index.md
+    - bole: 工作空间2/bole.md
